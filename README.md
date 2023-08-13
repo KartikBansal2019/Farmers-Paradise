@@ -6,4 +6,6 @@
 
 
 
-We have also made our website live with netlify [[FARMERS PARADISE](https://farmers-paradise.netlify.app/)]
+We have also made our website live with netlify 
+
+[link](https://farmersparadise.netlify.app/)
